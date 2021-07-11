@@ -4,3 +4,11 @@ viteの初期構築セットです
 
 >npm install  
 >npm run dev
+
+## Licence
+
+[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+
+## Author
+
+[kamo-climber/](https://github.com/kamo-climber/)
