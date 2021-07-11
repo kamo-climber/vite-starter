@@ -7,7 +7,7 @@ viteの初期構築セットです
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+MIT
 
 ## Author
 
