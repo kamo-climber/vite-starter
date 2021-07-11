@@ -4,11 +4,3 @@ viteの初期構築セットです
 
 >npm install  
 >npm run dev
-
-## Licence
-
-MIT
-
-## Author
-
-[kamo-climber/](https://github.com/kamo-climber/)
